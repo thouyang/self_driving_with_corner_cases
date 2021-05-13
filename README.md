@@ -13,7 +13,7 @@ If you want to train your own model rather than using pretrained, just put the i
 
 In the original project, Dave-2 model using road images as inputs and predict the vehicle controls (steering angle) as outputs. You can find the full paper **[HERE](https://arxiv.org/pdf/1604.07316.pdf)** <br>
 
-![alt img](./images/model1.png)<br>
+![alt img](./images/model1.PNG)<br>
 Then, the self driving car runs as below <br>
 ![alt img](./images/video1.gif)<br>
 
