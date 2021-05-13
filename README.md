@@ -21,7 +21,7 @@ While, considering the existing of uncertain data (e.g. corner cases) in real op
 AI systems are not trustful always. To avoid AI making wrong decision to cause accidents, 
 we propose to introduce data uncertainty analysis in AIs in our paper (HERE). Meanwhile, a new model with modification on the the original paper is constructed, as below <br>
 
-![alt img](./images/model2.png)<br>
+![alt img](./images/model2.PNG)<br>
 Process of self driving with warning of uncertain data <br>
 ![alt img](./images/video2.gif)<br>
 
