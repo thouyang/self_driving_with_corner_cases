@@ -11,7 +11,7 @@ from utils import *
 #it may not neccesary for yours. If it is, removing this part may increase the performance.
 # from tensorflow import Session,ConfigProto
 # from keras.backend.tensorflow_backend import set_session
-from tensorflow import Session, ConfigProto  # for tensorflow>1.5 using .compat.v1
+from tensorflow import Session, ConfigProto  
 from tensorflow.python.keras.backend import set_session
 
 config = ConfigProto()
