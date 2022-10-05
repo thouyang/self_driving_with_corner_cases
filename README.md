@@ -19,7 +19,7 @@ Then, the self driving car runs as below <br>
 
 While, considering the existing of uncertain data (e.g. corner cases) in real operation,
 AI systems are not trustful always. To avoid AI making wrong decision to cause accidents, 
-we propose to introduce data uncertainty analysis in AIs in our paper (HERE). Meanwhile, a new model with modification on the the original paper is constructed, as below <br>
+we propose to introduce data uncertainty analysis in AIs in our paper (**[HERE](https://ieeexplore.ieee.org/abstract/document/9891977)**). Meanwhile, a new model with modification on the the original paper is constructed, as below <br>
 
 ![alt img](./images/model2.PNG)<br>
 Process of self driving with warning of uncertain data <br>
