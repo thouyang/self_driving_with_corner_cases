@@ -1,5 +1,5 @@
 # Self Driving Car with Uncertain Data Analysis
-If you find this code useful, please cite our paper
+If you find this code useful, please cite our paper "[Autonomous driving quality assurance with data uncertainty analysis] " (https://ieeexplore.ieee.org/abstract/document/9891977)
 ## Introduction
 CNNs is widely using to build self-driving cars. Nvidia's Dave2,
  the model that using for autonomous cars, one of the easiest ways to build a Self-driving car. 
